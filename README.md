@@ -1,5 +1,5 @@
 # WebNongSan
-1/Tóm tắt sơ lược về phần mềm: Website bán nông sản là 1 loại hình kinh doanh 1 số lượng hàng hoá, khách hàng trong 1 khoảng thời gian là khá đông.Việc sử dụng giấy để 
+1/Tóm tắt sơ lược về phần mềm: </br> Website bán nông sản là 1 loại hình kinh doanh 1 số lượng hàng hoá, khách hàng trong 1 khoảng thời gian là khá đông.Việc sử dụng giấy để 
 ghi chép thông tin, tìm kiếm thông tin tạo nên sự khó khăn. Vì vậy, việc xây dựng 1 hệ thống Hỗ trợ cho người quản lý có thể quản lý nhân viên, cập nhật sản phẩm dễ dàng 
 hơn.
 </br>
