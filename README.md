@@ -4,7 +4,8 @@ ghi chép thông tin, tìm kiếm thông tin tạo nên sự khó khăn. Vi
 hơn.
 </br>
 2/Hướng dẫn cài đặt:
-Thêm các thư viện hỗ trợ trong thư mục ThuVien vào thư mục lib trong eclipse.
-Tạo cơ sở dữ liệu QuanLyNongSan và kết nối cơ sở dữ liệu
-Tài khoản đăng nhập admin: username: admin password: 123456
-Tài khoản client: username: HoangPhuc password: 12345
+Thêm các thư viện hỗ trợ trong thư mục ThuVien vào thư mục lib trong eclipse. </br>
+Tạo cơ sở dữ liệu QuanLyNongSan và kết nối cơ sở dữ liệu </br>
+Tài khoản đăng nhập admin: username: admin password: 123456 </br>
+Tài khoản client: username: HoangPhuc password: 12345 </br>
+Dường dẫn đến trang admin http://localhost/WebsiteNongSan/admin/login 
